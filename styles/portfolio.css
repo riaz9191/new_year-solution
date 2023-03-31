@@ -1,0 +1,203 @@
+* {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+/* header styles */
+.header {
+  width: 1600px;
+  height: 809px;
+}
+.banner-title {
+  text-align: right;
+}
+.banner {
+  background-image: url("/images/banner/banner1.png");
+  background-repeat: no-repeat;
+  height: 809px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 130px;
+}
+.title {
+  font-weight: 700;
+  font-size: 40px;
+}
+.sub-title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  padding: 24px 0 32px;
+}
+.button-primary {
+  height: 64px;
+  border-radius: 5px;
+  background: #f15b22;
+  border: none;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 20px 26px;
+}
+main {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+.failure {
+  display: flex;
+  margin-top: 126px;
+  align-items: center;
+}
+main li {
+  list-style: none;
+}
+.failure-title {
+  height: 723.3px;
+}
+.failure-sub-title {
+  line-height: 47px;
+  font-weight: 900;
+  font-size: 30px;
+  color: #151414;
+  padding-bottom: 23px;
+}
+.failuer-description {
+  padding-bottom: 15px;
+  font-weight: 400;
+  font-size: 16px;
+}
+.failure-t {
+  padding-left: 97px;
+}
+/* my plan */
+.my-plan {
+  margin-top: 135px;
+}
+.section-title {
+  text-align: center;
+  font-weight: 900;
+  font-size: 25px;
+  padding-bottom: 50px;
+}
+
+.skill-container {
+  display: flex;
+  justify-content: space-between;
+}
+.gradient {
+  background-image: url("../images/gradient3.png"), url("../images/watch.png");
+  width: 1140px;
+  height: 300px;
+  margin-top: 130px;
+}
+.gradient-title {
+  padding: 59px 617px 59px 64px;
+}
+.gradient-t {
+  font-weight: 700;
+  font-size: 40px;
+  color: #ffffff;
+  padding-bottom: 24px;
+}
+.button-p {
+  height: 64px;
+  border-radius: 5px;
+  background: #ffffff;
+  border: none;
+  color: #f15b22;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 20px 26px;
+}
+/* contact */
+.contact {
+  display: flex;
+  gap: 100px;
+  background: #151414;
+  color: #ffffff;
+  padding: 130px 230px;
+  margin-top: 130px;
+}
+.section-t {
+  padding-top: 24px;
+}
+.section-ti {
+  padding-top: 14px;
+}
+.section-tit {
+  padding-top: 32px;
+}
+.contact .section-title {
+  text-align: left;
+}
+.section-title {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.contact input,
+textarea {
+  margin-bottom: 26px;
+  border: 0;
+  width: 160%;
+  padding-left: 21px;
+  height: 64px;
+}
+
+.button-primar {
+  height: 64px;
+  border-radius: 5px;
+  background: #ffffff;
+  border: none;
+  color: #f15b22;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 20px 26px;
+}
+.s-input {
+  border-radius: 15px;
+  background-color: black;
+  color: white;
+  width: 100px;
+}
+.skill-title {
+  font-size: 26px;
+}
+.description {
+  text-align: center;
+  padding: 15px;
+}
+.z {
+  text-align: center;
+}
+. {
+  padding-bottom: 15px;
+}
+main li {
+  list-style: none;
+  padding-bottom: 8px;
+}
+.fa-classic,
+.fa-regular,
+.fa-solid,
+.far,
+.fas {
+  font-family: "Font Awesome 6 Free";
+  color: #6bff6b;
+}
+.failure {
+  display: flex;
+  margin-top: 126px;
+  color: #857676;
+  align-items: center;
+}
+.img-size {
+  width: 60px;
+  height: 60px;
+  
+}
+.marg{
+  padding-top: 20px;
+}
